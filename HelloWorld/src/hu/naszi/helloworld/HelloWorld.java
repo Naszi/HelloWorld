@@ -16,9 +16,9 @@ public class HelloWorld {
 		System.out.println("A ket szam kulonbsege: " + d);
 		System.out.println("A ket szam szorata: " + e);
 		System.out.println("A ket szam hanyadosa: " + f);
-		System.out.println("Csak kiirik valamit..., hogy legyen commit");
 		System.out.println("Csak kiirok valamit..., hogy legyen commit");
-		System.out.println("Csak kiirik valamit..., hogy legyen commit");
+		System.out.println("Csak kiirok valamit..., hogy legyen commit");
+		System.out.println("Csak kiirok valamit..., hogy legyen commit");
 		System.out.println("Csak kiirok valamit..., hogy legyen commit");
 	}
 
